@@ -10,8 +10,8 @@
       "u": "marcos",
       "p": "abcd",
       "cams": [
-        "cam3",
-        "cam5"
+        1,
+        2
       ],
       "active": true,
       "status": ""
