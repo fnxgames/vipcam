@@ -9,9 +9,13 @@
     {
       "u": "marcos",
       "p": "abcd",
-      "cams": [2, 18],
-      "active": false,
-      "reason": "Acesso bloqueado #Kelvin Lindo. Fale com o suporte."
+      "cams": [
+        2,
+        4
+      ],
+      "active": true,
+      "reason": "Acesso bloqueado #Kelvin Lindo. Fale com o suporte.",
+      "status": ""
     }
   ]
 }
