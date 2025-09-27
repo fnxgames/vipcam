@@ -3,6 +3,6 @@
     { "u": "fnx", "p": "9123", "cams": [], "active": true },
     { "u": "marcos", "p": "abcd", "cams": [1,4], "active": true },
     { "u": "kelvin", "p": "abcd", "cams": [2,4], "active": true },
-    { "u": "maria", "p": "xyz", "cams": [2,18], "active": false, "reason": "Pagamento em atraso" }
+    { "u": "maria", "p": "xyz", "cams": [2,3], "active": true }
   ]
 }
