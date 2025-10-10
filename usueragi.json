@@ -4,6 +4,6 @@
     { "u": "kelvin", "p": "bolsonaro", "cams": [], "active": true },
     { "u": "melvin", "p": "abcd", "cams": [1,2,3,4,5,6,17,18,19,20], "active": true },
     { "u": "iuri", "p": "2507", "cams": [1,2,3,4,5,7], "active": true },
-    { "u": "arnaldo", "p": "3012", "cams": [], "active": true }
+    { "u": "arnaldo", "p": "3012", "cams": [1,2,3,4,5,6], "active": true }
   ]
 }
