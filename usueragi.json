@@ -1,7 +1,7 @@
 {
   "users": [
     { "u": "fnx", "p": "9123", "cams": [], "active": true },
-    { "u": "kelvin", "p": "bolsonaro", "cams": [2,4], "active": true },
+    { "u": "kelvin", "p": "bolsonaro", "cams": [], "active": true },
     { "u": "maria", "p": "xyz", "cams": [1,2,3], "active": true },
     { "u": "test", "p": "teste", "cams": [1,2], "active": false, "reason": "bloqueado teste" },
     { "u": "lucas", "p": "1254", "cams": [1,2,3,4,5,6,7], "active": true },
